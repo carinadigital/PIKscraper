@@ -1,5 +1,6 @@
 {
     "require": {
-       "fabpot/goutte": "v1.0.3"
+       "fabpot/goutte": "v1.0.3",
+       "suin/php-rss-writer": "v1.2"
     }
 }
